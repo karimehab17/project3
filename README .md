@@ -2,6 +2,9 @@
 
 ## Project
 
+<Name>Karim Ehab Gamal
+<Gmail>anakarimehab67@gmail.com
+
 **Candy Shop Cashier**
 
 This project simulates a candy shop cashier using plain C.
@@ -70,3 +73,17 @@ All of these coin values are multiples of 25. Therefore, any amount that can be 
 137 is not a multiple of 25, so it cannot be represented using only these coins.
 
 The program should therefore handle 137 piastres as an impossible change amount rather than pretending that the exact change can be returned.
+
+## Screenshots
+
+### 1. Fresh Start
+
+[Fresh Start]
+
+### 2. Interesting Action
+
+[Interesting Action] & [Interesting Action (1)]
+
+### 3. Candy Shop Report
+
+[Candy Shop report]
