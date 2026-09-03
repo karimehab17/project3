@@ -33,8 +33,7 @@ static void     checkout(void);
 static void     giveChange(uint32_t change);
 static uint8_t  bestSeller(void);
 static void     dayReport(void);
-
-static void openShop(void)
+static void     openShop(void)
 {
     static const Candy_t initialShelf[CANDY_KINDS] = {
         {"Toffee", 25, 20, 0}, {"Gummy", 50, 15, 0},
